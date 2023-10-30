@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 (set-face-attribute 'default nil :font "Consolas-12" :weight 'medium)
 
 
